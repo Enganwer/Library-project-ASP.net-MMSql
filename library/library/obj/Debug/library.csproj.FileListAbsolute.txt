@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\library\library\bin\library.dll.config
+c:\users\user\documents\visual studio 2013\Projects\library\library\bin\library.dll
+c:\users\user\documents\visual studio 2013\Projects\library\library\bin\library.pdb
+c:\users\user\documents\visual studio 2013\Projects\library\library\obj\Debug\library.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\library\library\obj\Debug\library.dll
+c:\users\user\documents\visual studio 2013\Projects\library\library\obj\Debug\library.pdb
